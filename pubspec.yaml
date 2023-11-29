@@ -1,0 +1,57 @@
+name: assignment9
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.3.0-170.0.dev <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/Academys Genius Swordmaster.jpg 
+    - assets/images/The Max-Level Players 100th Regression.jpg
+    - assets/images/The Live.jpg 
+    - assets/images/The Knight King Who Returned with a God.jpg
+    - assets/images/The Genius Assassin Who Takes it All.jpg
+    - assets/images/The Beginning After The End.jpg 
+    - assets/images/The Hero Returns.jpg 
+    - assets/images/Summer Taste.jpg
+    - assets/images/Star-Embracing Swordmaster.jpg
+    - assets/images/Solo Max-Level Newbie.jpg
+    - assets/images/Solo Leveling.jpg
+    - assets/images/Secret Class.jpg
+    - assets/images/Return of the Bloodthirsty Police.jpg
+    - assets/images/Return of the 8th Class Magician.jpg
+    - assets/images/Relife Player.jpg
+    - assets/images/Regressing with the Kings Power.jpg
+    - assets/images/Reformation of the Deadbeat Noble.jpg
+    - assets/images/Pick Me Up, Infinite Gacha.jpg
+    - assets/images/Omniscient Readers Viewpoint.jpg
+    - assets/images/Killer Pietro.jpg
+    - assets/images/I Killed an Academy Player.jpg 
+    - assets/images/Hoarding in Hell.jpg
+    - assets/images/Helmut_ The Forsaken Child.jpg
+    - assets/images/Genius of the Unique Lineage.jpg
+    - assets/images/Duke Pendragon.jpg
+    - assets/images/Devil Returns To School Days.jpg
+    - assets/images/Academys Undercover Professor.jpg
+    - assets/images/b.png
+
+  fonts:
+    - family: Flower
+      fonts:
+        - asset: assets/fonts/IndieFlower-Regular.ttf
+
+
+
+
